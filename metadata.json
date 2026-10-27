@@ -1,0 +1,6 @@
+{
+  "name": "UniGlass - University Management Analytics & Visualization",
+  "description": "High-performance liquid glass data visualization and management system for universities featuring institutional and departmental intelligence, student performance tracking, audio log archives, and role-based records administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
